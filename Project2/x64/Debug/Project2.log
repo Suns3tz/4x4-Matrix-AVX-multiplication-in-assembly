@@ -1,0 +1,3 @@
+﻿  Assembling Project2.asm...
+legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: la sección .CRT existe; podría haber terminadores o inicializadores estáticos no controlados
+  Project2.vcxproj -> C:\Users\Tamara\source\repos\Project2\x64\Debug\Project2.exe
