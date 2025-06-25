@@ -124,7 +124,7 @@ main PROC
         jl loop_filas               ; Si si, termina el ciclo, si no, repite el bucle
 
         ; ===========================
-        ; PRUEBA IMPRESION TENGO MIEDO
+        ; IMPRESION EN CONSOLA
         ; ===========================
 
         lea rcx, offset fmt_titulo  ; Imprimir título
